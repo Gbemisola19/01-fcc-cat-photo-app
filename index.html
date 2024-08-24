@@ -12,15 +12,13 @@
         <h2>Cat Photos</h2>
         <!-- TODO: Add link to cat photos -->
         <p>
-          See more <a href="https://freecatphotoapp.com" alt="" target="_blank">cat photos</a> in
+          See more <a href="https://freecatphotoapp.com" title="View more cat photos on Free Cat Photo App" target="_blank">cat photos</a> in
           our gallery.
         </p>
         <a href="https://freecatphotoapp.com"
           ><img
-            src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg"
-            alt="A cute orange cat lying on its back."
-            title=""
-        /></a>
+            src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" title=""
+            alt="A cute orange cat lying on its back."/></a>
       </section>
       <section>
         <h2>Cat Lists</h2>
@@ -32,7 +30,7 @@
         </ul>
         <figure>
           <img
-            src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg"
+            src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" title="A delicious slice of lasagna"
             alt="A slice of lasagna on a plate."
           />
           <figcaption>Cats <em>love</em> lasagna.</figcaption>
@@ -45,7 +43,7 @@
         </ol>
         <figure>
           <img
-            src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg"
+            src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" title="Cats exploring a field together"
             alt="Five cats looking around a field."
           />
           <figcaption>Cats <strong>hate</strong> other cats.</figcaption>
@@ -67,14 +65,14 @@
           </fieldset>
           <fieldset>
             <legend>What's your cat's personality?</legend>
-            <input id="loving" name="personality" type="checkbox" value="loving" checked />
+            <input id="loving" type="checkbox" name="personality" value="loving" checked />
             <label for="loving">Loving</label>
-            <input id="lazy" name="personality" type="checkbox" value="lazy" />
+            <input id="lazy"  type="checkbox" name="personality"  value="lazy" />
             <label for="lazy">Lazy</label>
-            <input id="energetic" name="personality" type="checkbox" value="energetic" />
+            <input id="energetic" type="checkbox" name="personality" value="energetic" />
             <label for="energetic">Energetic</label>
           </fieldset>
-          <input name="catphotourl" type="text" placeholder="cat photo URL" required />
+          <input type="text" name="catphotourl" type="text" placeholder="cat photo URL" required />
           <button type="submit">Submit</button>
         </form>
       </section>
