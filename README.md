@@ -1,4 +1,4 @@
-# Project Name
+# Cat photo app
 
 > One paragraph statement about the project.
 
