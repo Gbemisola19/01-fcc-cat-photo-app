@@ -1,6 +1,6 @@
-# Project Name
+# Cat photo app
 
-> One paragraph statement about the project.
+> A project about building of cat photos
 
 ![screenshot](./app_screenshot.png)
 
