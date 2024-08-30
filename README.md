@@ -83,7 +83,7 @@ yarn axe
 ## 👤 Author
 
 - Github: [@author](https://github.com/Gbemisola19)
-- Twitter: [@author](https://twitter.com/Azeezat)
+- Twitter: [@author](https://twitter.com/Oladipoazeezat)
 - Linkedin: [@author](https://www.linkedin.com/in/author/)
 
 ## 🤝 Contributing
