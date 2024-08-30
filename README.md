@@ -11,8 +11,8 @@ Additional description of the project and its features.
 - Ordered list <ol>, - Unordered list <ul>
 - Form, input, figure, main,
 - Linters
-  -Prettier
-  -Stylelint
+-Prettier
+-Stylelint
 - Github Action
   
 
