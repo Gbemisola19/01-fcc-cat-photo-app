@@ -9,12 +9,12 @@ Additional description of the project and its features.
 ## Built With
 
 - HTML5 elements
-  - [ ] Ordered list <ol>,
-  - [ ] Unordered list <ul>
+  - Ordered list <ol>,
+  - Unordered list <ul>
   - Form, input, figure, main,
 - Linters
-  - [ ] ++Prettier++
-  - [ ] ++Stylelint++
+  Prettier
+  Stylelint
 - Github Action
 
 ## Live Demo
@@ -83,7 +83,7 @@ yarn axe
 ## 👤 Author
 
 - Github: [@author](https://github.com//Gbemisola19)
-- Twitter: [@author](https://twitter.com/Azeezat)
+- Twitter: [@author](https://twitter.com/OladipoAzeezat)
 - Linkedin: [@author](https://www.linkedin.com/in/author/)
 
 ## 🤝 Contributing
