@@ -2,26 +2,31 @@
 
 > One paragraph statement about the project.
 
-![screenshot](./app_screenshot.png)
+![cat photo](image.png)
 
 Additional description of the project and its features.
 
 ## Built With
-
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5 elements
+  - [ ] Ordered list <ol>,
+  - [ ] Unordered list <ul>
+  - Form, input, figure, main,
+- Linters
+  - [ ] ++Prettier++
+  - [ ] ++Stylelint++
+- Github Action
+  
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](<02-/Screenshot (177).png>)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/html-css-template.git
+git clone  https://github.com/Gbemisola19/01-fcc-cat-photo-app.git
 
 ```
 
@@ -77,8 +82,8 @@ yarn axe
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
+- Github: [@author](https://github.com/Gbemisola19)
+- Twitter: [@author](https://twitter.com/Azeezat)
 - Linkedin: [@author](https://www.linkedin.com/in/author/)
 
 ## 🤝 Contributing
