@@ -1,10 +1,11 @@
 # FCC Cat Photo App
 
-> This is a project about cat photo app which gives information about cats
+This is a project build with some html elements such as "ol" ordered list "ul" unordered list etc .
+
+>
 
 ![cat photo](app_screenshot.png)
-
-Additional description of the project and its features.
+The project contains some cat informations as well with some descriptive words .
 
 ## Built With
 
@@ -12,6 +13,7 @@ Additional description of the project and its features.
   Ordered list <ol>,
   Unordered list <ul>
   <Form>, <input>, <figure>, <main>,
+
 - Linters
   https://prettier.io/
   https://stylelint.io/
