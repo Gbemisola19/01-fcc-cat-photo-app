@@ -1,25 +1,25 @@
-# Fcc Cat Photo App
+# FCC Cat Photo App
 
-> A project using Basic HTML in styling of Cat Photos
+> This is a project about cat photo app which gives information about cats
 
-![cat photo](image.png)
+![cat photo](app_screenshot.png)
 
 Additional description of the project and its features.
 
 ## Built With
 
 - HTML5 elements
-  - Ordered list <ol>,
-  - Unordered list <ul>
-  - Form, input, figure, main,
+  Ordered list <ol>,
+  Unordered list <ul>
+  <Form>, <input>, <figure>, <main>,
 - Linters
-  Prettier
-  Stylelint
+  https://prettier.io/
+  https://stylelint.io/
 - Github Action
 
 ## Live Demo
 
-![cat photo app](<02-/Screenshot (177).png>)
+![deploy link](https://vercel.live/open-feedback/01-fcc-cat-photo-app-red.vercel.app?via=pr-comment-visit-preview-link&passThrough=1)
 
 ### Development (Running locally)
 
@@ -82,9 +82,8 @@ yarn axe
 
 ## 👤 Author
 
-- Github: [@author](https://github.com//Gbemisola19)
-- Twitter: [@author](https://twitter.com/OladipoAzeezat)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [Gbemisol19](https://github.com//Gbemisola19)
+- Twitter: [OladipoAzeezat](https://twitter.com/OladipoAzeezat)
 
 ## 🤝 Contributing
 
