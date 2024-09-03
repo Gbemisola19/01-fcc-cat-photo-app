@@ -1,22 +1,20 @@
-# FCC Cat Photo App
+# FCC CAFE-MENU
 
-This is a project build with some html elements such as "ol" ordered list "ul" unordered list etc .
+> A basic HTML and CSS project to demostrate the styling of a page.
 
->
+![screenshot](./app_screenshot.png)
 
-![cat photo](app_screenshot.png)
-The project contains some cat informations as well with some descriptive words .
+Additional description about the project and its features.
 
 ## Built With
 
 - HTML5 elements
-  Ordered list <ol>,
-  Unordered list <ul>
-  <Form>, <input>, <figure>, <main>,
-
+  - Ordered list `<ol>`,
+  - Unordered list `<ul>`,
+  - `section`, `form`, `figure`, `main`, `footer`,
 - Linters
-  https://prettier.io/
-  https://stylelint.io/
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/),
 - Github Action
 
 ## Live Demo
@@ -29,7 +27,6 @@ The project contains some cat informations as well with some descriptive words .
 
 ```bash
 git clone https://github.com/Gbemisola19/01-fcc-cat-photo-app.git
-
 ```
 
 - Install Dependencies
@@ -56,22 +53,16 @@ You can also check against Prettier:
 yarn format:check
 ```
 
-and to have it fix (to the best of its ability) any format issues, run:
+and to have it actually fix (to the best of its ability) any format issues, run:
 
 ```bash
 yarn format
 ```
 
-You can also check against HTML Validator (htmlhint):
+You can also check against webhint:
 
 ```bash
-yarn lint:html
-```
-
-To generate an accessibility report for this webpage, run the below command, it uses axe:
-
-```bash
-yarn axe
+yarn hint
 ```
 
 ## Style Guides
@@ -99,9 +90,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ## 📝 License
 
