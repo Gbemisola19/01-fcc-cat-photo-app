@@ -1,8 +1,7 @@
-# FCC CAFE-MENU
+# FCC CAT PHOTO APP
+> A basic HTML project to demostrate some html elements.
 
-> A basic HTML and CSS project to demostrate the styling of a page.
-
-![screenshot](./app_screenshot.png)
+![cat photo app](./app_screenshot.png)
 
 Additional description about the project and its features.
 
@@ -75,7 +74,7 @@ yarn hint
 
 ## 👤 Author
 
-- Github: [Gbemisol19](https://github.com//Gbemisola19)
+- Github: [Gbemisola19](https://github.com//Gbemisola19)
 - Twitter: [OladipoAzeezat](https://twitter.com/OladipoAzeezat)
 
 ## 🤝 Contributing
