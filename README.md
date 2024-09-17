@@ -1,4 +1,5 @@
 # FCC Cat Photo App
+
 > A basic HTML project to demostrate some html elements.
 
 ![cat photo app](app_screenshot.png)
