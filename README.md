@@ -1,34 +1,32 @@
-# Cat photo app
+# FCC Cat Photo App
 
-> One paragraph statement about the project.
+> A basic HTML project to demostrate some html elements.
 
-![cat photo](image.png)
+![cat photo app](app_screenshot.png)
 
-Additional description of the project and its features.
+Additional description about the project and its features.
 
 ## Built With
-- HTML5 elements
 
-  Ordered list <ol>
-  Unordered list <ul>
-  Form, input, figure, main
+- HTML5 elements
+  - Ordered list `<ol>`,
+  - Unordered list `<ul>`,
+  - `section`, `form`, `figure`, `main`, `footer`,
 - Linters
-  Prettier
-  Stylelint
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/),
 - Github Action
-  
 
 ## Live Demo
 
-[Live Demo Link](<02-/Screenshot (177).png>)
+![deploy link](https://vercel.live/open-feedback/01-fcc-cat-photo-app-red.vercel.app?via=pr-comment-visit-preview-link&passThrough=1)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone  https://github.com/Gbemisola19/01-fcc-cat-photo-app.git
-
+git clone https://github.com/Gbemisola19/01-fcc-cat-photo-app.git
 ```
 
 - Install Dependencies
@@ -55,22 +53,16 @@ You can also check against Prettier:
 yarn format:check
 ```
 
-and to have it fix (to the best of its ability) any format issues, run:
+and to have it actually fix (to the best of its ability) any format issues, run:
 
 ```bash
 yarn format
 ```
 
-You can also check against HTML Validator (htmlhint):
+You can also check against webhint:
 
 ```bash
-yarn lint:html
-```
-
-To generate an accessibility report for this webpage, run the below command, it uses axe:
-
-```bash
-yarn axe
+yarn hint
 ```
 
 ## Style Guides
@@ -83,9 +75,8 @@ yarn axe
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/Gbemisola19)
-- Twitter: [@author](https://twitter.com/Oladipoazeezat)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [Gbemisola19](https://github.com//Gbemisola19)
+- Twitter: [OladipoAzeezat](https://twitter.com/OladipoAzeezat)
 
 ## 🤝 Contributing
 
@@ -99,9 +90,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ## 📝 License
 
